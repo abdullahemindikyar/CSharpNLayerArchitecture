@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="NLayerArch.BussinessLayer/NLayerArch.BussinessLayer.csproj" Id="0231ac02-8c0a-4f7d-838a-8582c8e764f7" />
+  <Project Path="NLayerArch.DataAccessLayer/NLayerArch.DataAccessLayer.csproj" Id="881d3e02-0f2e-4909-a3c2-48917c22b71d" />
+  <Project Path="NLayerArch.EFProject/NLayerArch.EFProject.csproj" Id="01699477-48b5-49a9-887a-70b1148cdb09" />
+  <Project Path="NLayerArch.EntityLayer/NLayerArch.EntityLayer.csproj" Id="6f8ff12a-4c05-4ca6-b5ce-ee2dd9304a20" />
+  <Project Path="NLayerArch.PresentationLayer/NLayerArch.PresentationLayer.csproj" Id="3d484cfe-371e-4354-9954-fd4a41739c72" />
+</Solution>
