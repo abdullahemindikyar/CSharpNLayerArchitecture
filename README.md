@@ -1,6 +1,6 @@
 # CSharpNLayerArchitecture
 
-Basit bir N-Layer (katmanlı) mimari örneği. Amaç: Entity, DataAccess, Business ve Presentation katmanlarını kullanarak CRUD yapan küçük bir Windows Forms uygulaması göstermek. Ödev/öğrenme amaçlı hazırlandı.
+Basit bir N-Layer (katmanlı) mimari örneği. Amaç: Entity, DataAccess, Business ve Presentation katmanlarını kullanarak CRUD yapan küçük bir Windows Forms uygulaması göstermek. Öğrenme amaçlı hazırlandı.
 
 ## Özet
 - .NET Framework 4.7.2 ile geliştirilmiş.
@@ -8,8 +8,7 @@ Basit bir N-Layer (katmanlı) mimari örneği. Amaç: Entity, DataAccess, Busine
 - Kategori ve Ürün (Category, Product) için temel CRUD işlemleri mevcut.
 
 ## Gereksinimler
-- Windows
-- Visual Studio (2019/2022/2026) — çözüm dosyası projede hazır
+- Visual Studio (19/22/26)
 - .NET Framework 4.7.2
 - SQL Server (LocalDB veya full SQL) — connectionString App.config içinde ayarlanmalı
 
